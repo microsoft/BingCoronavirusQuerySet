@@ -12,8 +12,8 @@ BingCoronaVirusTeam@microsoft.com
 
 Inside the data folder there is a folder 2020(for the year) which contains two kinds of files. 
 
-*QueriesByCountry_DateRange.tsv : A tab separated text file that contains queries with Coronavirus intent by Country.   
-*QueriesByState_DateRange.tsv	: A tab separated text file that contains queries with Coronavirus intent by State. 
+* QueriesByCountry_DateRange.tsv : A tab separated text file that contains queries with Coronavirus intent by Country.   
+* QueriesByState_DateRange.tsv	: A tab separated text file that contains queries with Coronavirus intent by State. 
 
 
 ### QueriesByCountry  
