@@ -12,8 +12,8 @@ BingCoronaVirusTeam@microsoft.com
 
 Inside the data folder there is a folder 2020(for the year) which contains two kinds of files. 
 
-*QueriesByCountry_DateRange.tsv : A tab separated text file that contains queries with Coronavirus intent by Country.   
-*QueriesByState_DateRange.tsv	: A tab separated text file that contains queries with Coronavirus intent by State. 
+* QueriesByCountry_DateRange.tsv : A tab separated text file that contains queries with Coronavirus intent by Country.   
+* QueriesByState_DateRange.tsv	: A tab separated text file that contains queries with Coronavirus intent by State. 
 
 
 ### QueriesByCountry  
@@ -29,7 +29,7 @@ Inside the data folder there is a folder 2020(for the year) which contains two k
 **PopularityScore** : int, value between 1 to 100. 1 indicates least popular query on the day/Country with Coronavirus intent, and 100 indicates the most popular query for the same Country on the same day.  
 
 
-###QueriesByState  
+### QueriesByState  
 
 **Date** : string, Date on which the query was issued.  
 
