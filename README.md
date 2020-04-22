@@ -44,15 +44,18 @@ Inside the data folder there is a folder 2020(for the year) which contains two k
 **PopularityScore** : int, value between 1 to 100. 1 indicates least popular query on the day/State/Country with Coronavirus intent, and 100 indicates the most popular query for the same geogrpahy on the same day.  
 
 
+## Data Update Fequency  
+New data will be added once a month.
+
 
 ## Terms of use:  
 
-This GitHub repo and its contents herein, including all data, mapping, and analysis, copyright 2020 Microsoft, all rights reserved, is provided to the public strictly for educational and academic research purposes. The data contains search queries issued by Bing users from all across the world and may contain biases that need to be controlled for in downstream analyses.  Microsoft hereby disclaims all representations and warranties with respect to the dataset, including accuracy, fitness for use, and merchantability. Reliance on this dataset for medical guidance or use of it for commercial purposes is strictly prohibited. If you choose to use the data, please attribute it to Microsoft as follows: "Data Source: Bing Coronavirus Query set (https://github.com/microsoft/BingCoronavirusQuerySet)".
+Please see the LICENSE file for more details. If you choose to use the data, please attribute it to Microsoft as follows: "Data Source: Bing Coronavirus Query set (https://github.com/microsoft/BingCoronavirusQuerySet)".
 
 
 ## Contributing:  
 
-This project is not open for contributions.  Microsoft is providing this dataset for the purpose of research and analysis.
+This project is not open for contributions.  
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
