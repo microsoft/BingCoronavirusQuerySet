@@ -1,7 +1,7 @@
 # Bing search dataset for Coronavirus Intent  
 
 ## Data Source  
-This dataset was curated from the Bing search logs (desktop users only) over the period of Jan 1st, 2020 – April 18th, 2020.Only searches that were issued many times by multiple users were included. Dataset includes queries from all over the world that had an intent related to the Coronavirus or Covid-19. In some cases this intent is explicit in the query itself, e.g. “Coronavirus updates Seattle” in other cases it is implicit , e.g. “Shelter in place” .Implicit intent of search queries (e.g. Toilet paper) were extracted by using Random walks on the click graph approach as outlined in [this paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2007/07/craswellszummer-random-walks-sigir07.pdf) by Microsoft Research. All personal data was removed.
+This dataset was curated from the Bing search logs (desktop users only) over the period of Jan 1st, 2020 – (Current Month - 1).Only searches that were issued many times by multiple users were included. Dataset includes queries from all over the world that had an intent related to the Coronavirus or Covid-19. In some cases this intent is explicit in the query itself, e.g. “Coronavirus updates Seattle” in other cases it is implicit , e.g. “Shelter in place” .Implicit intent of search queries (e.g. Toilet paper) were extracted by using Random walks on the click graph approach as outlined in [this paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2007/07/craswellszummer-random-walks-sigir07.pdf) by Microsoft Research. All personal data was removed.
 
 
 ## Contact us
@@ -45,7 +45,7 @@ Inside the data folder there is a folder 2020(for the year) which contains two k
 
 
 ## Data Update Fequency  
-New data will be added once a month.
+New data will be added once a month till the Coronavirus is in the news.
 
 
 ## Terms of use:  
