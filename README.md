@@ -47,6 +47,10 @@ Inside the data folder there is a folder 2020 (for the year) which contains two 
 ## Data Update Frequency  
 New data will be added once a month until coronavirus is no longer in the news.
 
+## Insights from this dataset
+Here is a link to the Bing blog where Data Scientists from Microsoft extracted insights from this dataset
+[Extracting Insights from the Bing Coronavirus Queryset](https://blogs.bing.com/search/2020_07/Extracting-Covid-19-insights-from-Bing-search-data)
+
 
 ## Terms of Use:  
 
